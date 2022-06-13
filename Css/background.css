@@ -1,0 +1,12 @@
+body{
+  background: green;
+}
+body{
+  background: url(https://photographylife.com/wp-content/uploads/2017/01/Best-of-2016-Nasim-Mansurov-20.jpg);
+  background-repeat:no-repeat;
+  background-size: cover;
+}
+h1{
+  background: rgb(25,80,80);
+  border: 8px groove grey;
+}
