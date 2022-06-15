@@ -1,0 +1,28 @@
+.blue{
+    width:100px;
+    height: 100px;
+    background-color: blue;
+    float: left;
+    box-shadow: 7px 5px 5px black;
+}
+.yellow{
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
+    float: left;
+    box-shadow: 7px 5px 5px black; 
+}
+.green{
+    width: 200px;
+    height: 200px;
+    background-color: green;
+    clear: both;
+    margin-left: 500px;
+    box-shadow: 7px -5px 5px black; /*rt ,bottom , intensity , colour */
+   /* border-radius: 15px 15px 15px 15px; upper lft corner , uRtCnr , lRtCnr , lLftCnr */
+   border-radius: 15px;
+   transform:rotate(45deg) ;
+}
+body{
+    background-color: rgba(47, 20, 78, 0.982);
+}

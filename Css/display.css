@@ -1,0 +1,17 @@
+h1{
+    background-color: red;
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+}
+p{
+    background-color: rgb(9, 160, 150);
+    display: inline;
+    /*display:none;  invisible the element*/
+}
+span{
+    background-color: grey;
+    display: block;
+    width: 100px;
+    height: 100px;
+}
